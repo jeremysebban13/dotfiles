@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jeremysebban13@gmail.com
+	name = Jeremy Sebban
