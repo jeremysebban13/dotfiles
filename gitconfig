@@ -61,4 +61,4 @@
   defaultBranch = master
 [user]
 	email = jeremysebban13@gmail.com
-	name = Jeremy Sebban
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
